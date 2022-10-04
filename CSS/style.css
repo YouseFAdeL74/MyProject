@@ -53,7 +53,7 @@ h2 {
 }
 
 .sticky-top {
-  /* background-color: rgb(255 255 255 / 58%) !important; */
+  background-color: rgb(255 255 255 / 58%) !important;
   backdrop-filter: blur(16px);
   transition: var(--main-transation);
 }
